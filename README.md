@@ -2,7 +2,7 @@
 
 Personal portfolio website for Krisztian Banhidy.
 
-**🌐 Live:** [s4mur4i.github.io/s4mur4i-portfolio](https://s4mur4i.github.io/s4mur4i-portfolio/)
+**🌐 Live:** [s4mur4i.github.io/s4mur4i-portfolio](https://s4mur4i.github.io/s4mur4i-portfolio/) / [portfolio.szamuraj.com](https://portfolio.szamuraj.com/)
 
 ## Tech
 
